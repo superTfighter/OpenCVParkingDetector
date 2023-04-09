@@ -1,0 +1,54 @@
+﻿  Display.cpp
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\Yolo4Detector.h(23,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\Yolo4Detector.h(24,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\Yolo4Detector.h(25,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Yolo4Detector.cpp
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\Yolo4Detector.h(23,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\Yolo4Detector.h(24,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\Yolo4Detector.h(25,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\Yolo4Detector.cpp(91,58): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\Yolo4Detector.cpp(91,51): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\Yolo4Detector.cpp(91,37): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\Yolo4Detector.cpp(91,22): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  main.cpp
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\Yolo4Detector.h(23,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\Yolo4Detector.h(24,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\Yolo4Detector.h(25,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  The contents of <format> are available only with C++20 or later.
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\YoloV5Detector.h(26,28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\YoloV5Detector.h(27,35): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\ParkingSpaceDetector\YoloV5Detector.h(29,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Generating Code...
+  ParkingSpaceDetector.vcxproj -> D:\Egyetem\Projects\ParkingSpaceDetector\ParkingSpaceDetector\x64\Debug\ParkingSpaceDetector.exe
